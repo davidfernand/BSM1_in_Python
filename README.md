@@ -1,10 +1,14 @@
 # Implementation of BSM1 in Python
 
-Authors: Lukas Vandenberge, David Fernandes del Pozo
+**Author**: Lukas Vandenberge
 
-Affilitation: Department of Data Analysis and Mathematical Modelling (BIOMATH), Ghent University.
+**Supervisors**: dr. David Fernandes del Pozo, Prof. dr. ir. Ingmar Nopens
 
-Academic year: 2023-2024
+**Affilitation**: Department of Data Analysis and Mathematical Modelling (BIOMATH), Ghent University.
+
+**Academic year**: 2023-2024
+
+**Contact details**: david.fernandesdelpozo@ugent.be, fernandesdelpozodavid@gmail.com
 
 ### Summary
 
@@ -21,3 +25,15 @@ Initially, a point settler model is implemented, which led to a successful worki
 However, after the successful verification of the Takács settler model, introduced by Takács et al. (1991), 
 excellent results were obtained, which demonstrated the feasibility of implementing a simple WWTP configuration in a publicly 
 accessible programming language, suitable for further simulations.
+
+### References
+
+- Henze, Mogens., & International Water Association. Task Group on Mathematical Modelling for Design and Operation of Biological Wastewater Treatment. (2000). 
+``Activated sludge models ASM1, ASM2, ASM2d and ASM3``. IWA Pub.
+
+- Alex, J., Benedetti, L., Copp, J., Gernaey, K., Jeppsson, U., Nopens, I., Pons, M., Rieger, L.,
+Rosen, C., Steyer, J., et al. (2008). ``Benchmark simulation model no. 1 (bsm1)``. Report by the
+IWA Taskgroup on benchmarking of control strategies for WWTPs.
+
+- Takács, I., Patry, G. G., and Nolasco, D. (1991). ``A dynamic model of the clarification-
+thickening process``. Water research, 25(10):1263–1271.
