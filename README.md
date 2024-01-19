@@ -20,7 +20,7 @@ Environmental regulations and standards are becoming increasingly stringent nowa
  The configuration is based on the Benchmark Simulation Model No.1 (BSM1) described in Alex et al. (2008). Initially, a point settler model was implemented. 
  Although this led to a successful working implementation, it offered less satisfactory results when compared to the BSM1 results in the report. 
  To improve its accuracy, the Takács settler model (Takács et al. 1991) was implemented and numerically verified. 
- Excellent results where obtained when compared to the open-loop steady-state plant simulation results, demonstrating the feasibility of implementing a simple WWTP model in Python. 
+ Excellent results were obtained when compared to the open-loop steady-state plant simulation results, demonstrating the feasibility of implementing a simple WWTP model in Python. 
  Additionally, the model was tested with three different dynamic file inputs. The results at the plant effluent showed some differences with the reported averaged values, indicating that the model should be further tested and debugged.  
  Despite this, a partially accurate approximation was achieved and is considered satisfactory for its intended purposes. 
 
