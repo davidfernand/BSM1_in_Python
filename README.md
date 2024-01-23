@@ -27,11 +27,11 @@ Environmental regulations and standards are becoming increasingly stringent nowa
 ### References
 
 - Henze, Mogens., & International Water Association. Task Group on Mathematical Modelling for Design and Operation of Biological Wastewater Treatment. (2000). 
-``Activated sludge models ASM1, ASM2, ASM2d and ASM3``. IWA Pub.
+*Activated sludge models ASM1, ASM2, ASM2d and ASM3*. IWA Pub.
 
 - Alex, J., Benedetti, L., Copp, J., Gernaey, K., Jeppsson, U., Nopens, I., Pons, M., Rieger, L.,
-Rosen, C., Steyer, J., et al. (2008). ``Benchmark simulation model no. 1 (bsm1)``. Report by the
+Rosen, C., Steyer, J., et al. (2008). *Benchmark simulation model no. 1 (bsm1)*. Report by the
 IWA Taskgroup on benchmarking of control strategies for WWTPs.
 
-- Takács, I., Patry, G. G., and Nolasco, D. (1991). ``A dynamic model of the clarification-
-thickening process``. Water research, 25(10):1263–1271.
+- Takács, I., Patry, G. G., and Nolasco, D. (1991). *A dynamic model of the clarification-
+thickening process*. Water research, 25(10):1263–1271.
