@@ -10,6 +10,8 @@
 
 **Contact details**: david.fernandesdelpozo@ugent.be, fernandesdelpozodavid@gmail.com
 
+**Master thesis title**: Implementation of a wastewater treatment plant model in Python
+
 ### Summary
 
 Environmental regulations and standards are becoming increasingly stringent nowadays. The role of Waste Water Treatment Plants (WWTPs) plays a crucial role in achieving these goals.
